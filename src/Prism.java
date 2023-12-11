@@ -1,3 +1,8 @@
+/**
+ * This class represents a prism object
+ *
+ * @author Michael Miller
+ */
 public class Prism {
     /** The length of the Prism */
     private int length;
